@@ -26,8 +26,7 @@ Requires macOS 13 Ventura or later.
 ## Install
 
 1. Open the downloaded `.dmg` and drag **Blackwork Elements** into **Applications**.
-2. Open **Applications** and double-click **Blackwork Elements**. macOS says that "Blackwork Elements" could not be opened, with the buttons **Done** and **Move to Trash** (**Move to Bin** on British English macOS).
-   - Click **Done**. **Do not click Move to Trash / Move to Bin.**
+2. Open **Applications** and double-click **Blackwork Elements**. macOS says "Blackwork Elements" could not be opened. Click **Done**, not **Move to Bin**.
 3. Open **System Settings → Privacy & Security**, scroll down to **Security** and click **Open Anyway** next to the message about Blackwork Elements. Confirm with your password or Touch ID.
 4. The app opens. Later launches open normally, without this step.
 
